@@ -10,3 +10,5 @@ git commit -m "first commit"
 git remote add origin https://github.com/yelinbao/test.git
 git push -u origin master
 
+git -c diff.mnemonicprefix=false -c core.quotepath=false push -v origin branch1:branch1
+POST git-receive-pack (528 bytes)
