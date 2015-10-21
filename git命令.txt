@@ -13,13 +13,8 @@ git push -u origin master
 git -c diff.mnemonicprefix=false -c core.quotepath=false push -v origin branch1:branch1
 POST git-receive-pack (528 bytes)
 
-提交： 0aa960cde09e1362a2d9dcaacc5347e26fd0104f [0aa960c]
-父级： 
-作者： yelinbao <hzyelinbao@corp.netease.com>
-日期： 2015年10月21日 22:24:25
-标签： HEAD, origin/master, master
-git mingling
+fds
+fewfwefwf
 
 
-
-5+645968498498489649684
+ewfew
