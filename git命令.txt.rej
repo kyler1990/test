@@ -1,0 +1,9 @@
+diff a/git命令.txt b/git命令.txt	(rejected hunks)
+@@ -15,5 +15,6 @@
+ 
+ fds
+\ No newline at end of file
++<<<<<<< HEAD
+ fewfwefwf
+ =======
+ fewfwefwf
