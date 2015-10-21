@@ -14,4 +14,11 @@ git -c diff.mnemonicprefix=false -c core.quotepath=false push -v origin branch1:
 POST git-receive-pack (528 bytes)
 
 fds
+<<<<<<< HEAD
 fewfwefwf
+=======
+fewfwefwf
+
+
+ewfew
+>>>>>>> dabb9b653811ff1a95cb312eb35f5541633ce62e
